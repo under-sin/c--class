@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\bin\Debug\netcoreapp2.2\MembrosEstaticos.deps.json
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\bin\Debug\netcoreapp2.2\MembrosEstaticos.runtimeconfig.json
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\bin\Debug\netcoreapp2.2\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\bin\Debug\netcoreapp2.2\MembrosEstaticos.dll
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\bin\Debug\netcoreapp2.2\MembrosEstaticos.pdb
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.dll
+C:\Users\ander\program\balta\classe02\MembrosEstaticos\obj\Debug\netcoreapp2.2\MembrosEstaticos.pdb

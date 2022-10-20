@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\classe02\segundoProblema\bin\Debug\netcoreapp2.2\segundoProblema.deps.json
+C:\Users\ander\program\balta\classe02\segundoProblema\bin\Debug\netcoreapp2.2\segundoProblema.runtimeconfig.json
+C:\Users\ander\program\balta\classe02\segundoProblema\bin\Debug\netcoreapp2.2\segundoProblema.runtimeconfig.dev.json
+C:\Users\ander\program\balta\classe02\segundoProblema\bin\Debug\netcoreapp2.2\segundoProblema.dll
+C:\Users\ander\program\balta\classe02\segundoProblema\bin\Debug\netcoreapp2.2\segundoProblema.pdb
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.AssemblyInfo.cs
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.dll
+C:\Users\ander\program\balta\classe02\segundoProblema\obj\Debug\netcoreapp2.2\segundoProblema.pdb
